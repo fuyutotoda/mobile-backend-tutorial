@@ -1,0 +1,19 @@
+
+.title-txt {
+    color: #fe3fe4;
+    font-family: arial;
+    text-align: center;
+    font-size: 48px;
+}
+#horseimage {
+    margin:auto;
+    width:500px;
+    height:350px
+}
+
+#ridebutton {
+    margin:auto;
+    width: 200px;
+    height: 50px;
+    font-size: 24px;
+}
